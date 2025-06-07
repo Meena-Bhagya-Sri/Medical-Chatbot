@@ -22,4 +22,6 @@
 
     ## From the following link:
     https://huggingface.co/TheBloke/Llama-2-7b-Chat-GGML/tree/main
-5)create trails.ipynb 
+5)create trails.ipynb and import libraries needed
+6)create account in vector database(pinecone) and create api key and env variables
+7)Extract the data preprocess it 
